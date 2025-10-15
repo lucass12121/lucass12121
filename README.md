@@ -24,9 +24,21 @@ I’m passionate about programming, embedded systems, and intelligent systems th
 
 ---
 
+## 🧩 Featured Projects
+
+| Project | Description |
+|----------|--------------|
+| [**Camera**](https://github.com/lucass12121/camera) | A Qt + OpenCV camera application for embedded platforms (RK3568), featuring photo capture, video recording, and gallery playback. |
+| [**fiveinrow**](https://github.com/lucass12121/fiveinrow) | A Python-based Gomoku (Five in a Row) game, featuring AI decision logic and modular design. |
+| [**SnakeAI**](https://github.com/lucass12121/snakeai) | A deep reinforcement learning Snake game using PyTorch and DQN algorithm. |
+| [**watch3**](https://github.com/lucass12121/watch3) | STM32-based smartwatch project featuring real-time sensing and hardware control. |
+
+---
+
 ## 📫 Contact
 
-- **Email:** w18458132083@outlook.com  
+- **Email:** [w18458132083@outlook.com](mailto:w18458132083@outlook.com)  
 - Open to collaboration and discussions on AI, automation, and embedded development  
 
 ---
+
