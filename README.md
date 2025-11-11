@@ -32,6 +32,7 @@ I’m passionate about programming, embedded systems, and intelligent systems th
 | [**fiveinrow**](https://github.com/lucass12121/fiveinrow) | A Python-based Gomoku (Five in a Row) game, featuring AI decision logic and modular design. |
 | [**SnakeAI**](https://github.com/lucass12121/snakeai) | A deep reinforcement learning Snake game using PyTorch and DQN algorithm. |
 | [**watch3**](https://github.com/lucass12121/watch3) | STM32-based smartwatch project featuring real-time sensing and hardware control. |
+[**ml-mini-distill-sentiment**](https://github.com/lucass12121/ml-mini-distill-sentiment) |  Lightweight sentiment classifier distilled from BERT into a compact BiLSTM student — achieving 25× faster inference while keeping strong accuracy. 
 
 ---
 
